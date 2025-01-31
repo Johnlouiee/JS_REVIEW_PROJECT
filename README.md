@@ -1,0 +1,2 @@
+# Javascript Review Project by John Louie N. Purisima
+This project is a review of Javascript concepts, from beginner to advanced.
